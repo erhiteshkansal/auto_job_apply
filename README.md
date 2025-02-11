@@ -1,4 +1,5 @@
 Naukri Auto Apply Bot
+
 📌Overview
 This project automates job applications on Naukri.com. It scans job listings based on predefined filters and applies automatically, saving time and effort for job seekers.
 
